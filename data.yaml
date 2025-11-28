@@ -1,0 +1,17 @@
+
+
+train:  D:\YOLO_MLLM_Project\dataset\train\images
+val:    D:\YOLO_MLLM_Project\dataset\val\images
+
+nc: 10
+names:
+  - person
+  - rider
+  - car
+  - bus
+  - truck
+  - bike
+  - motor
+  - traffic light
+  - traffic sign
+  - train
